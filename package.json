@@ -19,9 +19,7 @@
   },
   "homepage": "https://github.com/m0rdhai/portfolio-site#readme",
   "dependencies": {
-    "@tailwindcss/vite": "^4.3.3",
-    "express": "^5.3.0",
-    "tailwindcss": "^4.3.3"
+    "express": "^5.3.0"
   },
   "allowScripts": {
     "nodemon@1.19.4": true
